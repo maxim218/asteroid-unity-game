@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatDef", "FlatDef.csproj", "{f4f67602-ce34-3f2d-47b7-2aa1206c4548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputDef", "InputDef.csproj", "{2644cf6e-760a-c90d-9173-c8e2aee29882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilsDef", "UtilsDef.csproj", "{77f823b0-3daf-24bd-db28-8d14359c015d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e5fef93c-e3c1-e061-b308-d1e06da1a77c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenDef", "ScreenDef.csproj", "{0e01656c-6b3a-93ae-dd06-b6a51812102d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreDef", "ScoreDef.csproj", "{18f7f0dc-3797-d49c-2f29-88e6a5cea2fd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuDef", "MenuDef.csproj", "{2c487def-a3af-097e-31bb-b22d8798c28b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuiDef", "GuiDef.csproj", "{4da3c8c2-8f1c-74d7-813f-84278f03f056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f4f67602-ce34-3f2d-47b7-2aa1206c4548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f4f67602-ce34-3f2d-47b7-2aa1206c4548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2644cf6e-760a-c90d-9173-c8e2aee29882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2644cf6e-760a-c90d-9173-c8e2aee29882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77f823b0-3daf-24bd-db28-8d14359c015d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77f823b0-3daf-24bd-db28-8d14359c015d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e5fef93c-e3c1-e061-b308-d1e06da1a77c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e5fef93c-e3c1-e061-b308-d1e06da1a77c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0e01656c-6b3a-93ae-dd06-b6a51812102d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0e01656c-6b3a-93ae-dd06-b6a51812102d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18f7f0dc-3797-d49c-2f29-88e6a5cea2fd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18f7f0dc-3797-d49c-2f29-88e6a5cea2fd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2c487def-a3af-097e-31bb-b22d8798c28b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2c487def-a3af-097e-31bb-b22d8798c28b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4da3c8c2-8f1c-74d7-813f-84278f03f056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4da3c8c2-8f1c-74d7-813f-84278f03f056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

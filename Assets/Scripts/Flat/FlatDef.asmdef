@@ -1,0 +1,16 @@
+{
+    "name": "FlatDef",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8638ca44980b68d42a7812488acf23e7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

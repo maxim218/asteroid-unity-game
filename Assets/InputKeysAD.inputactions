@@ -1,0 +1,55 @@
+{
+    "name": "InputKeysAD",
+    "maps": [
+        {
+            "name": "ActionMapAD",
+            "id": "088d8b68-649f-4113-98e0-1407efafe192",
+            "actions": [
+                {
+                    "name": "ActionAD",
+                    "type": "Button",
+                    "id": "98d99e8d-e757-4d5e-91ec-f1bb1eec7949",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "1D Axis",
+                    "id": "cfb5ce19-835b-4f22-b0c1-3a5e256df405",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionAD",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "3a395209-d539-4313-86da-73cc28ad552b",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionAD",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "e4117ea0-ec73-4eca-ad01-3bb48b8648e2",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionAD",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

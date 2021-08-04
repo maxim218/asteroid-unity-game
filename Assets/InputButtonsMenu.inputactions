@@ -1,0 +1,55 @@
+{
+    "name": "InputButtonsMenu",
+    "maps": [
+        {
+            "name": "ActionRQ",
+            "id": "157d2a0c-4612-4d3b-b38e-43173148f3dd",
+            "actions": [
+                {
+                    "name": "ActionRQ",
+                    "type": "Button",
+                    "id": "64efd988-2a18-4edc-b543-08538198785c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "1D Axis",
+                    "id": "68027ba3-33d8-4ce0-adc8-839672920c5d",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionRQ",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "b1025518-0b8d-4736-b8eb-69da4921fbea",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionRQ",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "c6a89ea9-dcd5-4fe6-a7db-db56797c9ded",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionRQ",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,52 @@
+{
+    "name": "InputMouse",
+    "maps": [
+        {
+            "name": "MouseActionMap",
+            "id": "8200e1f8-d535-469c-abe1-a6dc17c050e0",
+            "actions": [
+                {
+                    "name": "MouseActionLeft",
+                    "type": "Button",
+                    "id": "8c6862f4-66c4-4014-8b4e-0ec010f25d75",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MouseActionRight",
+                    "type": "Button",
+                    "id": "e710f87b-a23c-433e-9605-a0c44d9a24b4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8eac5e5a-e893-4876-bed1-f29989fa3837",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseActionLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3a22e66d-c636-4fc1-a8ce-42c41c233abf",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseActionRight",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

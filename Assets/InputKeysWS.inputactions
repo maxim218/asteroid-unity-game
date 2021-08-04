@@ -1,0 +1,55 @@
+{
+    "name": "InputKeysWS",
+    "maps": [
+        {
+            "name": "ActionMapWS",
+            "id": "47bf256c-6119-48e9-8cb3-104153d66b07",
+            "actions": [
+                {
+                    "name": "ActionWS",
+                    "type": "Button",
+                    "id": "aecae947-8c7e-4491-9606-20efa1692377",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "1D Axis",
+                    "id": "dcff746d-e4c7-440a-9fc6-1df51138080e",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionWS",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "b916c502-5c32-4062-9427-1df2728dd48c",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionWS",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "f482e136-4f1f-4047-9b3e-2e78e6aa3624",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ActionWS",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
